@@ -14,7 +14,7 @@ namespace ConsoleApplication1
             Console.WriteLine("yenidalim");
 
             Console.ReadKey();
-            Console.WriteLine("last");
+            Console.WriteLine("lastssss");
         }
     }
 }
